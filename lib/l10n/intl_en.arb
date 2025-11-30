@@ -1,0 +1,29 @@
+{
+  "@@locale": "en",
+
+  "home": "Home",
+  "goodMorning": "Good Morning",
+  "newsForYou": "Here is some news for you",
+
+  "general": "General",
+  "entertainment": "Entertainment",
+  "technology": "Technology",
+  "science": "Science",
+  "business": "Business",
+  "sports": "Sports",
+  "health": "Health",
+
+  "light": "Light",
+  "dark": "Dark",
+
+  "english": "English",
+  "arabic": "Arabic",
+
+  "goHome": "Go to Home",
+  "theme": "Theme",
+  "language": "Language",
+
+  "searchCategories": "Search Categories",
+  "searchNews": "Search News",
+  "AppNews":"AppNews"
+}

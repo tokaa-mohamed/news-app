@@ -1,0 +1,29 @@
+{
+  "@@locale": "ar",
+
+  "home": "الرئيسية",
+  "goodMorning": "صباح الخير",
+  "newsForYou": "إليك بعض الأخبار لك",
+
+  "general": "عام",
+  "entertainment": "ترفيه",
+  "technology": "تكنولوجيا",
+  "science": "علوم",
+  "business": "أعمال",
+  "sports": "رياضة",
+  "health": "صحة",
+
+  "light": "فاتح",
+  "dark": "داكن",
+
+  "english": "الإنجليزية",
+  "arabic": "العربية",
+
+  "goHome": "الانتقال إلى الرئيسية",
+  "theme": "الثيم",
+  "language": "اللغة",
+
+  "searchCategories": "بحث في الأقسام",
+  "searchNews": "بحث في الأخبار",
+  "AppNews":"تطبيق للاخبار"
+}
